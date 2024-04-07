@@ -22,7 +22,7 @@ to setup a linux server for hunter
 
 ## Tools:
 
-go install -v [github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest](http://github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)
+go install -v [github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest](http://github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)\n
 go install -v [github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest](http://github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest)
 go install -v [github.com/projectdiscovery/httpx/cmd/httpx@latest](http://github.com/projectdiscovery/httpx/cmd/httpx@latest)
 go install -v [github.com/projectdiscovery/katana/cmd/katana@latest](http://github.com/projectdiscovery/katana/cmd/katana@latest)
@@ -39,7 +39,7 @@ go install -v [github.com/ffuf/ffuf/v2@latest](http://github.com/ffuf/ffuf/v2@la
 go install -v [github.com/owasp-amass/amass/v4/](http://github.com/owasp-amass/amass/v4/)...@master
 pip3 install uro
 
-Tools repos:
+more Tools repos:
 
 https://github.com/trufflesecurity/trufflehog
 
